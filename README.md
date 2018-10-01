@@ -3,16 +3,16 @@ This repository is used to record the note of learning advanced javascript.
 ## 1. 数据类型
 ### 1.1 课程介绍
 #### 课程大纲如下：  
-1. 数据类型
-2. 表达式和运算符
-3. 语句
-4. 对象
-5. 数组
-6. 函数
-7. this
-8. 闭包和作用域
-9. OOP
-10. 正则与模式匹配
+1. [数据类型](https://github.com/shaoyuyun/javascript-advanced-note#1-数据类型)
+2. [表达式和运算符](https://github.com/shaoyuyun/javascript-advanced-note#2-表达式和运算符)
+3. [语句](https://github.com/shaoyuyun/javascript-advanced-note#3-语句)
+4. [对象](https://github.com/shaoyuyun/javascript-advanced-note#4-对象)
+5. [数组](https://github.com/shaoyuyun/javascript-advanced-note#5-数组)
+6. [函数](https://github.com/shaoyuyun/javascript-advanced-note#6-函数和作用域函数this)
+7. [this](https://github.com/shaoyuyun/javascript-advanced-note#63-javascript-this)
+8. [闭包和作用域](https://github.com/shaoyuyun/javascript-advanced-note#7-函数和作用域闭包作用域)
+9. [OOP](https://github.com/shaoyuyun/javascript-advanced-note#8-oop上)
+10. [正则与模式匹配](https://github.com/shaoyuyun/javascript-advanced-note#10-正则与模式匹配)
 #### 学习方法：  
 ##### 学习资料：  
 1. 《JavaScript权威指南》
@@ -679,7 +679,7 @@ console.log(obj2.x);
 #### 小结
 ![9](http://wx2.sinaimg.cn/mw690/006epDUlgy1fvrzwylw8rj30mr0g5jrp.jpg)  
 
-## 5.数组
+## 5. 数组
 ### 5.1 JavaScript创建数组、数组操作
 #### 数组概述
 ![1](http://wx4.sinaimg.cn/mw690/006epDUlgy1fvszzh3zj5j30tz0ghgme.jpg)  
